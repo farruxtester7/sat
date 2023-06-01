@@ -1,0 +1,63 @@
+@import url(https://fonts.googleapis.com/css?family=Montserrat:100,200,300,regular,500,600,700,800,900,100italic,200italic,300italic,italic,500italic,600italic,700italic,800italic,900italic);
+
+body {
+  font-family: "Montserrat";
+}
+
+.header {
+  padding: 30px 0;
+}
+
+.hero {
+  background: url(http://via.placeholder.com/1440x739) no-repeat center / cover;
+  min-height: 739px;
+
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+
+.hero-heading {
+  margin-bottom: 24px;
+}
+
+.hero-text {
+  margin-bottom: 40px;
+}
+
+.hero-btn {
+  text-transform: uppercase;
+}
+
+.stat {
+  padding: 50px 0;
+  background: #333456;
+  color: #fff;
+}
+
+.mentor {
+  background: #333456;
+  color: #fff;
+}
+
+.reward {
+  background: #f5fafd;
+}
+
+.reward-heading {
+  margin-bottom: 23px;
+}
+
+.reward-text {
+  margin-bottom: 16px;
+}
+
+.reward-btn {
+  text-transform: uppercase;
+}
+
+.footer {
+  background: #333456;
+  color: #fff;
+  padding: 60px 0;
+}
