@@ -61,3 +61,46 @@ body {
   color: #fff;
   padding: 60px 0;
 }
+
+.footer-social-list {
+  gap: 16px;
+}
+
+.footer-social-item {
+  width: 48px;
+  height: 48px;
+  background: #fff;
+  border-radius: 5px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.footer-link {
+  color: #fff;
+  text-decoration: none;
+}
+
+.footer-item {
+  margin-bottom: 16px;
+  list-style: none;
+}
+
+.footer-list {
+  padding-left: 0;
+}
+
+.footer-contact-item {
+  display: flex;
+  gap: 10px;
+  align-items: center;
+  justify-content: flex-start;
+  margin-bottom: 20px;
+}
+
+.footer-contact-text {
+  margin-bottom: 0;
+}
+.footer-contact-list {
+  padding-left: 0;
+}
